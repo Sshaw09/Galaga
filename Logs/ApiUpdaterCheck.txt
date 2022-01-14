@@ -1,0 +1,100 @@
+[api-updater (non-obsolete-error-filter)] 12/20/2021 8:39:55 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 503.524ms
+moved types parse time: 38ms
+candidates parse time : 0ms
+C# parse time         : 193ms
+candidates check time : 26ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 8:40:55 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 38.093ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 154ms
+candidates check time : 26ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 8:41:21 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 36.297ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 154ms
+candidates check time : 24ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/20/2021 8:41:34 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 34.147ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 152ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 8:46:32 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 328.334ms
+moved types parse time: 42ms
+candidates parse time : 0ms
+C# parse time         : 210ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 8:47:34 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.67ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 154ms
+candidates check time : 23ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 8:49:50 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44.674ms
+moved types parse time: 34ms
+candidates parse time : 1ms
+C# parse time         : 155ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 8:53:44 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 44.241ms
+moved types parse time: 35ms
+candidates parse time : 0ms
+C# parse time         : 156ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 8:38:03 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 316.496ms
+moved types parse time: 40ms
+candidates parse time : 0ms
+C# parse time         : 185ms
+candidates check time : 20ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12/22/2021 8:39:00 AM : Starting /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 34.948ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 165ms
+candidates check time : 22ms
+console write time    : 0ms
+
